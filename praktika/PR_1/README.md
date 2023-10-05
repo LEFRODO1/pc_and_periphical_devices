@@ -1,1 +1,0 @@
-# pc_and_periphical_devices

@@ -1,0 +1,14 @@
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\obj\Debug\net7.0\Lab1.Evm.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\obj\Debug\net7.0\Lab1.Evm.Server.AssemblyInfoInputs.cache
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\obj\Debug\net7.0\Lab1.Evm.Server.AssemblyInfo.cs
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\obj\Debug\net7.0\Lab1.Evm.Server.csproj.CoreCompileInputs.cache
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\bin\Debug\net7.0\Lab1.Evm.Server.exe
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\bin\Debug\net7.0\Lab1.Evm.Server.deps.json
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\bin\Debug\net7.0\Lab1.Evm.Server.runtimeconfig.json
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\bin\Debug\net7.0\Lab1.Evm.Server.dll
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\bin\Debug\net7.0\Lab1.Evm.Server.pdb
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\obj\Debug\net7.0\Lab1.Evm.Server.dll
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\obj\Debug\net7.0\refint\Lab1.Evm.Server.dll
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\obj\Debug\net7.0\Lab1.Evm.Server.pdb
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\obj\Debug\net7.0\Lab1.Evm.Server.genruntimeconfig.cache
+C:\Users\60612_rfa\source\repos\Lab1.Evm.Server\Lab1.Evm.Server\obj\Debug\net7.0\ref\Lab1.Evm.Server.dll
